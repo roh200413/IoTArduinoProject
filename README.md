@@ -1,1 +1,1 @@
-# IoTArduinoProject
+# 메이커 스페이스 IoT 강의 자료 및 코드 공유
