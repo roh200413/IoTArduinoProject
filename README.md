@@ -4,6 +4,6 @@
 
 <h2> 딥러닝을 활용한 이미지 처리 기초</h2>
 <div align=center> 
-  <img src="https://user-images.githubusercontent.com/39451858/209556483-252e8e7b-20b3-4277-820a-b53d87811d70.png"  width="480" height="250"/>
+  <img src="https://user-images.githubusercontent.com/39451858/209556483-252e8e7b-20b3-4277-820a-b53d87811d70.png"  width="430" height="250"/>
 </div>
 
